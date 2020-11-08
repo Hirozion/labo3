@@ -7,6 +7,7 @@ nom, son age, son poids et son sexe + initialisation + modification
 */
 
 #include <stdio.h>
+#include <string.h>
 
 struct Rectangle
 {
@@ -33,5 +34,7 @@ void main(void)
     printf("un rectange avec une longueur de %d et une largeur de %d\n",rec.longueur, rec.largeur);
 
     Chien chien1 = {"toto",12,125,"Male"};
+    printf("Name %s | Size %d | Age %d | Sexe %s",chien1.name,chien1.size,chien1.age,chien1.sexe);
+    strcpy(chien1.name,"Nais");
     printf("Name %s | Size %d | Age %d | Sexe %s",chien1.name,chien1.size,chien1.age,chien1.sexe);
 }
