@@ -28,7 +28,8 @@ typedef struct chien
 
 void main(void)
 {
-    Proprio p1 = {"Martin","Deprez","chemin de velaine"};
+    Proprio p1 = {"pamela","rocco","chemin du feu"};
     Chien ch1 = {"Ona",4,12,"F",p1};
     printf("Le proprio de %s est %s\n",ch1.name,ch1.proprio.name);
+    printf("coucou");
 }
