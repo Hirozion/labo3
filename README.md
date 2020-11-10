@@ -1,9 +1,9 @@
 # labo3
 
-<p> -laboratoire 3 exercice </p>
+<p><b> -laboratoire 3 exercice </p>
 -Structure
 -Enum
--début pointeur
+-début pointeur </b>
 
 liste exercice
 ----------------------------------------------------------------------------------------------------------------------
