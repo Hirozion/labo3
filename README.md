@@ -1,12 +1,12 @@
 # labo3
 
-# laboratoire 3 exercice 
-#    -Structure
-#    -Enum
-#    -début pointeur
+-laboratoire 3 exercice 
+-Structure
+-Enum
+-début pointeur
 
-# liste exercice
-# ----------------------------------------------------------------------------------------------------------------------
+liste exercice
+----------------------------------------------------------------------------------------------------------------------
 
 •Definissez une structure pour representer un rectangle, contenant une longueur et unelargeur.
 •Definissez une structure pour representer un chien, contenant les informations sur sonnom, son age, son poids et son sexe.
