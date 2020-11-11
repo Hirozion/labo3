@@ -24,3 +24,11 @@ Que constatez-vous?
 •Ecrivez une fonction recevant en parametre un  ́element de cette  ́enumeration et qui 
 utilise une instruction switch pour afficher le nom du jour recu
 
+•Declarez deux variables entieres int et affichez les valeurs de leurs adresses respectives.
+Qu’observez-vous?
+•Meme question mais avec des variables entieres char.  
+Qu’observez-vous?  
+Que pouvez-vous en conclure?
+•Trouvez combien de bytes sont utilises pour representer une adresse sur votre systeme(utilisezsizeof()).  
+Quel est le rapport entre ce nombre et votre systeme?
+
